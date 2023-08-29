@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div>
           <img id="logo" src={logo} />
-         <p style={{fontSize:'20px', lineHeight:'2'}}>etainRN is an innovative project exploring ways to support and retain new nurses. RetainRN is a product of Healthworx Venture Studio, all rights reserved.</p>
+         <p style={{fontSize:'20px', lineHeight:'2'}}>RetainRN is an innovative project exploring ways to support and retain new nurses. RetainRN is a product of Healthworx Venture Studio, all rights reserved.</p>
       </div>
     </div>
   );
